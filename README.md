@@ -1,49 +1,51 @@
-<!-- Navigation Bar Box -->
-<table width="100%" cellpadding="15" cellspacing="0" border="0" style="background-color: brown; color: white; border-collapse: collapse; font-family: sans-serif;">
+# Hi, I'm Mounika 👋
+
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Focus">
+</p>
+
+---
+
+### 🚀 About Me
+I am an passionate **AI/ML Enthusiast** and **Aspiring Web Developer**. I love bridging the gap between intelligent backend models and clean, user-friendly frontend interfaces. Currently, I am expanding my skillset by building hands-on projects with HTML, CSS, Python, and machine learning frameworks.
+
+- 🧠 **Learning:** Advanced Machine Learning concepts & Full-Stack Web Development.
+- ⚡ **Fun Fact:** I enjoy exploring how data can be used to solve real-world problems.
+- 🎯 **Current Goal:** To build robust web applications integrated with smart AI features.
+
+---
+
+### 🛠️ Tech Stack & Skills
+<table width="100%" cellpadding="5" cellspacing="0" border="0" style="border-collapse: collapse;">
   <tr>
-    <td align="left">
-      <h1 style="margin: 0; font-size: 24px; color: white;">My Portfolio</h1>
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend Development</h4>
+      <ul>
+        <li>HTML5 / CSS3</li>
+        <li>Responsive Web Design</li>
+      </ul>
     </td>
-    <td align="right">
-      <span style="font-size: 16px;">
-        <b>Home</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
-        <b>About</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
-        <b>Contact</b>
-      </span>
+    <td width="50%" valign="top">
+      <h4>🤖 AI / Machine Learning</h4>
+      <ul>
+        <li>Python Programming</li>
+        <li>Data Analysis & Logic</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<!-- Hero Section -->
-<div align="center" style="background-color: #f4f4f4; padding: 60px 20px; font-family: sans-serif; line-height: 1.6;">
-  <h2 style="font-size: 32px; margin-bottom: 10px; color: #333;">
-    Hello, I'm <span style="color: #00bfff;">Mounika</span>
-  </h2>
-  <p style="font-size: 18px; color: #666; margin: 0;">Aspiring Web Developer</p>
-</div>
+---
 
-<!-- About Section -->
-<div align="center" style="background-color: #ffffff; padding: 50px 20px; font-family: sans-serif; line-height: 1.6;">
-  <h2 style="font-size: 28px; margin-bottom: 15px; color: #333;">About Me</h2>
-  <p style="font-size: 16px; color: #444; max-width: 600px; margin: 0 auto;">
-    I'm passionate about learning web development. 
-    This is my first simple project using HTML and CSS.
-  </p>
-</div>
+### 📬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, talk about AI, or just say hi!
 
-<!-- Contact Section -->
-<div align="center" style="background-color: #f4f4f4; padding: 50px 20px; font-family: sans-serif; line-height: 1.6;">
-  <h2 style="font-size: 28px; margin-bottom: 15px; color: #333;">Contact</h2>
-  <p style="font-size: 16px; color: #444; margin: 0;">
-    Email: <a href="mailto:patnammounika6@email.com" style="color: #00bfff; text-decoration: none; font-weight: bold;">patnammounika6@email.com</a>
-  </p>
-</div>
+<p align="left">
+  <a href="mailto:patnammounika6@email.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
 
-<!-- Footer -->
-<table width="100%" cellpadding="15" cellspacing="0" border="0" style="background-color: brown; color: white; border-collapse: collapse; font-family: sans-serif; margin-top: 20px;">
-  <tr>
-    <td align="center">
-      <p style="margin: 0; font-size: 14px;">© 2025 My Portfolio. All rights reserved.</p>
-    </td>
-  </tr>
-</table>
+---
+<p align="center"><small>© 2026 Mounika. Built with passion.</small></p>
