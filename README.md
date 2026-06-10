@@ -30,8 +30,7 @@ I am an passionate **AI/ML Enthusiast** and **Aspiring Web Developer**. I love b
       <h4>🤖 AI / Machine Learning</h4>
       <ul>
         <li>Python Programming</li>
-         <li>Java Programming</li>
-        
+         <li>Java Programming</li>  
         <li>Data Analysis & Logic</li>
       </ul>
     </td>
