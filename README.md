@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mounika Patnam 👋</h1>
-<h3 align="center">Application Support Engineer | Python • Java Full Stack • AWS • GenAI • RAG</h3>
+<h3 align="center"> Python • Java Full Stack • AWS • GenAI • RAG</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mounika-patnam">
@@ -20,7 +20,6 @@
 - 🤖 Building **Generative AI & Agentic AI** applications using LangChain & LangGraph
 - ☁️ **AWS Certified** Cloud Practitioner & AI Practitioner
 - ☕ **Java Full Stack Certified** — Spring Boot | React | REST APIs | DSA
-- 🏆 **1st Place** — College AI Hackathon 2025 (30+ teams)
 - 🔭 Currently building: **AI Job Application Assistant**
 - 💡 Passionate about RAG pipelines, vector search & LLM applications
 - 📍 Based in Andhra Pradesh, India
@@ -81,7 +80,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** — College AI Hackathon 2025 (30+ teams)
+
 - 📉 Reduced client support ticket volume by **20%** through AI automation
 - 🚀 Deployed **5+ end-to-end GenAI projects** on AWS & GCP
 - ☁️ **AWS Certified** — Cloud Practitioner & AI Practitioner
