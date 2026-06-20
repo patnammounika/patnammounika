@@ -22,39 +22,17 @@
 
 ## 👩‍💻 About Me
 
-```python
-class MounikaPatnam:
-    def __init__(self):
-        self.name        = "Mounika Patnam"
-        self.role        = "Application Support Engineer"
-        self.location    = "Andhra Pradesh, India 🇮🇳"
-        self.education   = "MCA — Prakasam Engineering College"
-        self.certifications = [
-            "AWS Certified Cloud Practitioner ☁️",
-            "AWS Certified AI Practitioner 🤖",
-            "Java Full Stack Certified ☕",
-            "Generative AI with LLMs 🧠"
-        ]
-        self.achievements = [
-            "🥇 1st Place — College AI Hackathon 2025 (30+ teams)",
-            "📉 Reduced support tickets by 20% via AI automation",
-            "🚀 Deployed 5+ GenAI projects on AWS & GCP"
-        ]
-        self.currently_learning = "Agentic AI Workflows & LLM Fine-tuning"
-        self.goal = "To build intelligent AI-powered applications"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
-
-me = MounikaPatnam()
-me.say_hi()
-```
+- 🤖 Building **Generative AI & Agentic AI** applications using LangChain & LangGraph
+- ☁️ **AWS Certified** Cloud Practitioner & AI Practitioner
+- ☕ **Java Full Stack Certified** — Spring Boot | React | REST APIs | DSA
+- 🏆 **1st Place** — College AI Hackathon 2025 (30+ teams)
+- 🔭 Currently building: **AI Interview Coach & Job Application Assistant**
+- 💡 Passionate about RAG pipelines, vector search & LLM applications
+- 📍 Based in Andhra Pradesh, India
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 🤖 AI & GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
@@ -93,21 +71,41 @@ me.say_hi()
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge)
-
-</div>
+![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
 ## 🔥 Featured Projects
 
-<div align="center">
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|-----------|---------------|---------|
+| [🎯 AI Interview Coach](https://github.com/patnammounika/ai-interview-coach) | Practice interviews with AI scoring, ideal answers & feedback | Java · Spring Boot · React · OpenAI |
+| [🤖 AI Resume Analyzer](https://github.com/patnammounika/resume-analyzer) | Upload resume → instant AI score, ATS check & keyword suggestions | Python · OpenAI · Streamlit |
+| [📚 Chat with Multiple PDFs](https://github.com/patnammounika/chat-with-pdfs) | Chat across multiple PDFs using RAG + FAISS vector search | LangChain · FAISS · GPT-4o |
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | ⭐ |
-|-----------|---------------|--------------|-----|
-| [🤖 AI Resume Analyzer](https://github.com/patnammounika/resume-analyzer) | Upload resume → instant AI score, ATS check, strengths & keyword suggestions | Python · OpenAI · Streamlit | RAG |
-| [📚 Chat with Multiple PDFs](https://github.com/patnammounika/chat-with-pdfs) | Chat across multiple PDFs simultaneously using RAG + FAISS vector search | LangChain · FAISS · GPT-4o | RAG |
+---
 
-</div>
+## 🏆 Achievements
+
+- 🥇 **1st Place** — College AI Hackathon 2025 (30+ teams)
+- 📉 Reduced client support ticket volume by **20%** through AI automation
+- 🚀 Deployed **5+ end-to-end GenAI & Agentic AI projects** on AWS & GCP
+- ☁️ **Dual AWS Certified** — Cloud Practitioner & AI Practitioner
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
+|--------------|---------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
+| AWS Certified AI Practitioner | Amazon Web Services | 2024 |
+| Java Full Stack Development | Certified | 2024 |
+| Generative AI with LLMs | DeepLearning.AI | 2024 |
+| Building Systems with ChatGPT API | DeepLearning.AI | 2024 |
+| Vector Databases | DeepLearning.AI / Weaviate | 2024 |
+| Docker Essentials | IBM | 2023 |
 
 ---
 
@@ -132,40 +130,6 @@ me.say_hi()
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏢 Issuer | 📅 Year |
-|--------------|---------|--------|
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
-| AWS Certified AI Practitioner | Amazon Web Services | 2024 |
-| Java Full Stack Development | Certified | 2024 |
-| Generative AI with LLMs | DeepLearning.AI | 2024 |
-| Building Systems with ChatGPT API | DeepLearning.AI | 2024 |
-| Vector Databases | DeepLearning.AI / Weaviate | 2024 |
-| Docker Essentials | IBM | 2023 |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 **1st Place — College AI Hackathon 2025** (30+ teams)
-
-📉 **Reduced client support tickets by 20%** through production AI automation
-
-🚀 **Deployed 5+ end-to-end GenAI & Agentic AI projects** on AWS & GCP
-
-☁️ **Dual AWS Certified** — Cloud Practitioner & AI Practitioner
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
@@ -173,4 +137,10 @@ me.say_hi()
 <a href="https://linkedin.com/in/mounika-patnam">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a
+<a href="mailto:mounikapatnam53@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:1A56A0&height=120&section=footer"/>
+
+</div>
