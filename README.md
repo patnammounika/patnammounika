@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Mounika Patnam 👋</h1>
-<h3 align="center"> Python • Java Full Stack • AWS • GenAI • RAG</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56A0,100:00C9FF&height=200&section=header&text=Mounika%20Patnam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Support%20Engineer%20%7C%20GenAI%20%7C%20Java%20Full%20Stack%20%7C%20AWS&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/mounika-patnam">
@@ -13,22 +14,49 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=patnammounika&label=Profile%20Views&color=1A56A0&style=flat" alt="profile views" />
+
+</div>
+
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🤖 Building **Generative AI & Agentic AI** applications using LangChain & LangGraph
-- ☁️ **AWS Certified** Cloud Practitioner & AI Practitioner
-- ☕ **Java Full Stack Certified** — Spring Boot | React | REST APIs | DSA
-- 🔭 Currently building: **AI Job Application Assistant**
-- 💡 Passionate about RAG pipelines, vector search & LLM applications
-- 📍 Based in Andhra Pradesh, India
+```python
+class MounikaPatnam:
+    def __init__(self):
+        self.name        = "Mounika Patnam"
+        self.role        = "Application Support Engineer"
+        self.location    = "Andhra Pradesh, India 🇮🇳"
+        self.education   = "MCA — Prakasam Engineering College"
+        self.certifications = [
+            "AWS Certified Cloud Practitioner ☁️",
+            "AWS Certified AI Practitioner 🤖",
+            "Java Full Stack Certified ☕",
+            "Generative AI with LLMs 🧠"
+        ]
+        self.achievements = [
+            "🥇 1st Place — College AI Hackathon 2025 (30+ teams)",
+            "📉 Reduced support tickets by 20% via AI automation",
+            "🚀 Deployed 5+ GenAI projects on AWS & GCP"
+        ]
+        self.currently_learning = "Agentic AI Workflows & LLM Fine-tuning"
+        self.goal = "To build intelligent AI-powered applications"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
+
+me = MounikaPatnam()
+me.say_hi()
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI & GenAI
+<div align="center">
+
+### 🤖 AI & GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -36,7 +64,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -46,71 +74,103 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Databases
+### 🗄️ Databases & Vector Stores
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
-### Tools & Others
-![DSA](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|-----------|---------------|---------|
-| [🤖 AI Resume Analyzer](https://github.com/patnammounika/resume-analyzer) | Upload resume → instant AI score, strengths, weaknesses & keyword suggestions | Python, OpenAI, Streamlit |
-| [📚 Chat with Multiple PDFs](https://github.com/patnammounika/chat-with-pdfs) | Ask questions across multiple PDFs using RAG + FAISS vector search | LangChain, FAISS, GPT-4o |
+<div align="center">
 
----
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | ⭐ |
+|-----------|---------------|--------------|-----|
+| [🤖 AI Resume Analyzer](https://github.com/patnammounika/resume-analyzer) | Upload resume → instant AI score, ATS check, strengths & keyword suggestions | Python · OpenAI · Streamlit | RAG |
+| [📚 Chat with Multiple PDFs](https://github.com/patnammounika/chat-with-pdfs) | Chat across multiple PDFs simultaneously using RAG + FAISS vector search | LangChain · FAISS · GPT-4o | RAG |
 
-## 🏆 Achievements
-
-
-- 📉 Reduced client support ticket volume by **20%** through AI automation
-- 🚀 Deployed **5+ end-to-end GenAI projects** on AWS & GCP
-- ☁️ **AWS Certified** — Cloud Practitioner & AI Practitioner
-
----
-
-## 📜 Certifications
-
-- ☁️ AWS Certified Cloud Practitioner (2025)
-- 🤖 AWS Certified AI Practitioner (2024)
-- ☕ Java Full Stack Development — Certified
-- 🧠 Generative AI with LLMs — DeepLearning.AI (2024)
-- 🔧 Building Systems with ChatGPT API — DeepLearning.AI (2024)
-- 🗄️ Vector Databases — DeepLearning.AI / Weaviate (2024)
-- 🐳 Docker Essentials — IBM (2023)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patnammounika&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patnammounika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patnammounika&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patnammounika&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+</div>
 
 ---
 
-<p align="center">⭐ If you like my projects, give them a star! It motivates me to build more 🚀</p>
-<p align="center">📫 Reach me at <a href="mailto:mounikapatnam53@gmail.com">mounikapatnam53@gmail.com</a></p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patnammounika&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
+|--------------|---------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
+| AWS Certified AI Practitioner | Amazon Web Services | 2024 |
+| Java Full Stack Development | Certified | 2024 |
+| Generative AI with LLMs | DeepLearning.AI | 2024 |
+| Building Systems with ChatGPT API | DeepLearning.AI | 2024 |
+| Vector Databases | DeepLearning.AI / Weaviate | 2024 |
+| Docker Essentials | IBM | 2023 |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+🥇 **1st Place — College AI Hackathon 2025** (30+ teams)
+
+📉 **Reduced client support tickets by 20%** through production AI automation
+
+🚀 **Deployed 5+ end-to-end GenAI & Agentic AI projects** on AWS & GCP
+
+☁️ **Dual AWS Certified** — Cloud Practitioner & AI Practitioner
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+<a href="https://linkedin.com/in/mounika-patnam">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a
