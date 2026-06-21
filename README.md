@@ -25,7 +25,6 @@
 - 🤖 Building **Generative AI & Agentic AI** applications using LangChain & LangGraph
 - ☁️ **AWS Certified** Cloud Practitioner & AI Practitioner
 - ☕ **Java Full Stack Certified** — Spring Boot | React | REST APIs | DSA
-- 🏆 **1st Place** — College AI Hackathon 2025 (30+ teams)
 - 🔭 Currently building: **AI Interview Coach & Job Application Assistant**
 - 💡 Passionate about RAG pipelines, vector search & LLM applications
 - 📍 Based in Andhra Pradesh, India
